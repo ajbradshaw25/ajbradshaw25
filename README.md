@@ -1,26 +1,14 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Ashley Bradshaw
 
 Hello, GitHub! 👋
 
-I'm Ashley Bradshaw, a student at Brigham Young University-Idaho currently studying Software Engineering with an emphasis in Embedded Systems. Welcome to my GitHub profile!
+I'm Ashley Bradshaw, a student at Brigham Young University-Idaho currently studying Software Engineering with an emphasis in Embedded Systems. Welcome to my GitHub profile! 😄
 
 ## About Me
 
-- I'm currently learning about Computer Systems, how to program with data structures, and I'm learning C language.
-- My goals are to pursue a career in Software Engineering, continue my studies, as I love to learn. I have completed goals of mine as I have learned other programming languages and how to use different functions and etc. in those languages.
-- Ask me about any questions you have in particular. I'd be happy to answer them the best I can.
+- 🔭 I'm currently learning about Computer Systems, how to program with data structures, and I'm learning C language.
+- 🌱 My goals are to pursue a career in Software Engineering, continue my studies, as I love to learn. I have completed goals of mine as I have learned other programming languages and how to use different functions and etc. in those languages.
+- 💬 Ask me about any questions you have in particular. I'd be happy to answer them the best I can.
 
 ## Technologies and Tools
 
