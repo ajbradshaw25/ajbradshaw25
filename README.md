@@ -29,6 +29,6 @@ I'm Ashley Bradshaw, a student at Brigham Young University-Idaho currently study
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()[LinkedIn](https://www.linkedin.com/in/ashley-bradshaw-113300331/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/ashley-bradshaw-113300331/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
